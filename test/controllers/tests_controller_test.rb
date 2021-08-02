@@ -6,4 +6,5 @@ class TestsControllerTest < ActionDispatch::IntegrationTest
   # end
   def index
   end
+  
 end
